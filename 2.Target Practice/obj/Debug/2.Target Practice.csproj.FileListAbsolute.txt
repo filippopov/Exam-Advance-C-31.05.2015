@@ -1,0 +1,6 @@
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\2.Target Practice\bin\Debug\2.Target Practice.exe.config
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\2.Target Practice\bin\Debug\2.Target Practice.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\2.Target Practice\bin\Debug\2.Target Practice.pdb
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\2.Target Practice\obj\Debug\2.Target Practice.csprojResolveAssemblyReference.cache
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\2.Target Practice\obj\Debug\2.Target Practice.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\2.Target Practice\obj\Debug\2.Target Practice.pdb

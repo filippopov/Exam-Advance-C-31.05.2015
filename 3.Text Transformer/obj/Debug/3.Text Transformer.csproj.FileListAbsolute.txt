@@ -1,0 +1,6 @@
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\3.Text Transformer\bin\Debug\3.Text Transformer.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\3.Text Transformer\bin\Debug\3.Text Transformer.exe
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\3.Text Transformer\bin\Debug\3.Text Transformer.pdb
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\3.Text Transformer\obj\Debug\3.Text Transformer.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\3.Text Transformer\obj\Debug\3.Text Transformer.exe
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\3.Text Transformer\obj\Debug\3.Text Transformer.pdb

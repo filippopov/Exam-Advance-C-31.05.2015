@@ -1,0 +1,6 @@
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\Command Interpreter\bin\Debug\Command Interpreter.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\Command Interpreter\bin\Debug\Command Interpreter.exe
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\Command Interpreter\bin\Debug\Command Interpreter.pdb
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\Command Interpreter\obj\Debug\Command Interpreter.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\Command Interpreter\obj\Debug\Command Interpreter.exe
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 31 May\Command Interpreter\obj\Debug\Command Interpreter.pdb
